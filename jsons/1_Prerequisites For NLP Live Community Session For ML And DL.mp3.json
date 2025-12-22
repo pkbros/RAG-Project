@@ -1,0 +1,537 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 0.0,
+            "end": 2.4,
+            "text": " Hello all, my name is Krish Nayak and welcome to my YouTube channel."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 2.58,
+            "end": 6.66,
+            "text": " So guys, just a few days back, I had announced that I'll be starting the NLP live community"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 6.66,
+            "end": 10.5,
+            "text": " sessions for machine learning and deep learning from tomorrow, that is Tuesday."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 10.88,
+            "end": 14.26,
+            "text": " And if I say the exact date, it is nothing but 14 June 2022."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 14.52,
+            "end": 19.42,
+            "text": " We'll be starting the session from 7pm and every day we'll try to do at least two hours"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 19.42,
+            "end": 19.96,
+            "text": " of session."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 20.38,
+            "end": 22.6,
+            "text": " And remember, we'll not be having the sessions on weekends."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 22.84,
+            "end": 26.78,
+            "text": " So mostly from Monday to Friday, we'll try to do it in this specific way."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 26.92,
+            "end": 29.060000000000002,
+            "text": " But yes, we are going to start it from Tuesday, that is tomorrow."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 29.06,
+            "end": 33.519999999999996,
+            "text": " Now, many people have asked me about the prerequisites to attend the NLP session."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 33.66,
+            "end": 35.96,
+            "text": " Guys, I understand I've taken a lot of community sessions."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 36.08,
+            "end": 40.14,
+            "text": " I started with stats, machine learning, Python, you know, then we also saw deep learning."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 40.54,
+            "end": 44.68,
+            "text": " So if I'm saying that, okay, I'll be teaching you NLP and this will be from basics."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 44.96,
+            "end": 46.82,
+            "text": " We'll also solve a lot of end-to-end projects."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 47.14,
+            "end": 48.3,
+            "text": " So you need to be good at Python."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 48.42,
+            "end": 49.68,
+            "text": " You need to be good at machine learning."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 49.78,
+            "end": 54.06,
+            "text": " You need to know, you probably should have solved at least one end-to-end problem statement"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 54.06,
+            "end": 55.739999999999995,
+            "text": " so that you'll be able to focus over here."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 55.74,
+            "end": 62.58,
+            "text": " But again, my main thing will be that I'll try to explain you in a very basic way and"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 62.58,
+            "end": 65.8,
+            "text": " probably try to explain you in a better way so that you can also implement all these things."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 66.32000000000001,
+            "end": 69.1,
+            "text": " Now, initially, we'll start with NLP for machine learning."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 69.44,
+            "end": 71.26,
+            "text": " You know, we will be learning different, different things."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 71.4,
+            "end": 74.12,
+            "text": " We'll be learning techniques like bag of words, TF, IDF."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 74.3,
+            "end": 77.02000000000001,
+            "text": " We'll be seeing what is word embedding, word2vec, you know."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 77.28,
+            "end": 79.66,
+            "text": " We'll be solving a lot of problem statements."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 79.78,
+            "end": 82.26,
+            "text": " We'll be using libraries like NLTK, SPC, Gensim."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 82.62,
+            "end": 84.78,
+            "text": " We'll try to see different, different things with respect to that."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 84.78,
+            "end": 86.18,
+            "text": " That is how we are going to start."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 86.48,
+            "end": 90.1,
+            "text": " Later, once we complete with some end-to-end projects, then we are going to move towards"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 90.1,
+            "end": 90.68,
+            "text": " deep learning."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 90.78,
+            "end": 95.94,
+            "text": " And deep learning will be starting with RNN, that is Recurrent Neural Network, LSTM Recurrent"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 95.94,
+            "end": 96.54,
+            "text": " Neural Network."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 96.74000000000001,
+            "end": 98.08,
+            "text": " We'll understand word embedding."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 98.22,
+            "end": 100.98,
+            "text": " We'll understand word2vec over there also and how we can use it."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 101.44,
+            "end": 103.86,
+            "text": " Apart from that, we'll also be learning Transformers and BERT."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 104.38,
+            "end": 107.78,
+            "text": " And many people have also requested me to cover Hugging Face Transformers."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 107.82,
+            "end": 110.26,
+            "text": " So that part also, I will make sure that I'll cover it."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 110.26,
+            "end": 114.32000000000001,
+            "text": " So the most important thing is your dedication, better internet."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 114.54,
+            "end": 117.32000000000001,
+            "text": " And yes, you need to come at 7pm and we'll try to cover that."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 117.92,
+            "end": 120.44,
+            "text": " Every day we'll be having one to two hours of session."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 120.88000000000001,
+            "end": 125.22,
+            "text": " And in this session, we'll also try to, you know, keep some kind of assignments, quizzes,"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 125.44,
+            "end": 129.08,
+            "text": " rewards, you know, so that everybody will be able to participate in a better way."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 129.46,
+            "end": 133.5,
+            "text": " We'll try to keep it a little bit competitive so that everybody will be able to understand."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 133.5,
+            "end": 138.42,
+            "text": " But my promise is that if you are attending session, probably let's say for 15 days, 20 days, it may go."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 139.04,
+            "end": 140.68,
+            "text": " Max to max 15 days, it may go."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 141.16,
+            "end": 144.2,
+            "text": " So you will definitely be able to crack any kind of interviews."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 144.34,
+            "end": 145.94,
+            "text": " So that is what I'm actually looking for."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 146.0,
+            "end": 147.26,
+            "text": " And that is my aim."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 147.44,
+            "end": 147.56,
+            "text": " Okay."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 147.94,
+            "end": 149.7,
+            "text": " From your side, good amount of dedications."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 150.3,
+            "end": 152.24,
+            "text": " And these are some of the prerequisites."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 152.72,
+            "end": 153.4,
+            "text": " Practice it."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 153.74,
+            "end": 159.18,
+            "text": " I know many people may not be knowing RNN, CNN, but see my community sessions that they are already uploaded"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 159.18,
+            "end": 162.38,
+            "text": " because we are probably going to start NLP for deep learning from next week."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 162.38,
+            "end": 162.62,
+            "text": " Okay."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 163.62,
+            "end": 167.66,
+            "text": " Please make sure that you also enroll for the dashboard that is given in the description"
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 167.66,
+            "end": 172.79999999999998,
+            "text": " because I'll be putting all the materials over there so that you can actually use it any point of time whenever you want."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 172.88,
+            "end": 173.0,
+            "text": " Okay."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 173.32,
+            "end": 174.44,
+            "text": " So all the sessions will be live."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 174.6,
+            "end": 176.16,
+            "text": " And yes, I will see you all in the live session."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 176.51999999999998,
+            "end": 177.38,
+            "text": " This was it for my side."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 177.44,
+            "end": 178.82,
+            "text": " Please make sure that you subscribe to the channel."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 179.26,
+            "end": 182.3,
+            "text": " Press the bell notification icon so that whenever I go live, you get the notification."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 182.46,
+            "end": 184.78,
+            "text": " You also start attending the classes along with me."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 184.84,
+            "end": 185.0,
+            "text": " Right."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 185.32,
+            "end": 186.14,
+            "text": " So I'll see you all in the next video."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 186.2,
+            "end": 186.7,
+            "text": " Have a great day."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 186.76,
+            "end": 187.35999999999999,
+            "text": " Thank you, one doll."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 187.62,
+            "end": 187.96,
+            "text": " Bye bye."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 187.96,
+            "end": 188.46,
+            "text": " Bye bye."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 188.46,
+            "end": 192.32000000000002,
+            "text": " My only request is that please share with everyone the specific video."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 192.46,
+            "end": 193.12,
+            "text": " Tag me in LinkedIn."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 193.34,
+            "end": 194.46,
+            "text": " Tag iNeuron in the LinkedIn."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 194.98000000000002,
+            "end": 196.12,
+            "text": " And yes, I'll see you all in the next video."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 196.22,
+            "end": 196.46,
+            "text": " Bye bye."
+        },
+        {
+            "number": "1",
+            "title": "Prerequisites For NLP Live Community Session For ML And DL",
+            "start": 196.68,
+            "end": 197.0,
+            "text": " Take care."
+        }
+    ],
+    "text": " Hello all, my name is Krish Nayak and welcome to my YouTube channel. So guys, just a few days back, I had announced that I'll be starting the NLP live community sessions for machine learning and deep learning from tomorrow, that is Tuesday. And if I say the exact date, it is nothing but 14 June 2022. We'll be starting the session from 7pm and every day we'll try to do at least two hours of session. And remember, we'll not be having the sessions on weekends. So mostly from Monday to Friday, we'll try to do it in this specific way. But yes, we are going to start it from Tuesday, that is tomorrow. Now, many people have asked me about the prerequisites to attend the NLP session. Guys, I understand I've taken a lot of community sessions. I started with stats, machine learning, Python, you know, then we also saw deep learning. So if I'm saying that, okay, I'll be teaching you NLP and this will be from basics. We'll also solve a lot of end-to-end projects. So you need to be good at Python. You need to be good at machine learning. You need to know, you probably should have solved at least one end-to-end problem statement so that you'll be able to focus over here. But again, my main thing will be that I'll try to explain you in a very basic way and probably try to explain you in a better way so that you can also implement all these things. Now, initially, we'll start with NLP for machine learning. You know, we will be learning different, different things. We'll be learning techniques like bag of words, TF, IDF. We'll be seeing what is word embedding, word2vec, you know. We'll be solving a lot of problem statements. We'll be using libraries like NLTK, SPC, Gensim. We'll try to see different, different things with respect to that. That is how we are going to start. Later, once we complete with some end-to-end projects, then we are going to move towards deep learning. And deep learning will be starting with RNN, that is Recurrent Neural Network, LSTM Recurrent Neural Network. We'll understand word embedding. We'll understand word2vec over there also and how we can use it. Apart from that, we'll also be learning Transformers and BERT. And many people have also requested me to cover Hugging Face Transformers. So that part also, I will make sure that I'll cover it. So the most important thing is your dedication, better internet. And yes, you need to come at 7pm and we'll try to cover that. Every day we'll be having one to two hours of session. And in this session, we'll also try to, you know, keep some kind of assignments, quizzes, rewards, you know, so that everybody will be able to participate in a better way. We'll try to keep it a little bit competitive so that everybody will be able to understand. But my promise is that if you are attending session, probably let's say for 15 days, 20 days, it may go. Max to max 15 days, it may go. So you will definitely be able to crack any kind of interviews. So that is what I'm actually looking for. And that is my aim. Okay. From your side, good amount of dedications. And these are some of the prerequisites. Practice it. I know many people may not be knowing RNN, CNN, but see my community sessions that they are already uploaded because we are probably going to start NLP for deep learning from next week. Okay. Please make sure that you also enroll for the dashboard that is given in the description because I'll be putting all the materials over there so that you can actually use it any point of time whenever you want. Okay. So all the sessions will be live. And yes, I will see you all in the live session. This was it for my side. Please make sure that you subscribe to the channel. Press the bell notification icon so that whenever I go live, you get the notification. You also start attending the classes along with me. Right. So I'll see you all in the next video. Have a great day. Thank you, one doll. Bye bye. Bye bye. My only request is that please share with everyone the specific video. Tag me in LinkedIn. Tag iNeuron in the LinkedIn. And yes, I'll see you all in the next video. Bye bye. Take care."
+}
